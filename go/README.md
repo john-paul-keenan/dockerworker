@@ -2,7 +2,7 @@
 
 This example will show you how to test and deploy Go (Golang) code to IronWorker.
 
-**NOTE**: Be sure you've followed the base [getting started instructions on the top level README](https://github.com/iron-io/dockerworker).
+**NOTE**: Before getting started, make sure your iron.json file is in the root of the project directory. Be sure you've followed the base [getting started instructions on the top level README](https://github.com/iron-io/dockerworker).
 
 Vendor dependencies:
 
